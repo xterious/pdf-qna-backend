@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-google-genai
+faiss-cpu
+pypdf2
+python-dotenv
+google-generativeai
+pydantic
+langchain-text-splitters
+langchain-core
+langchain-community

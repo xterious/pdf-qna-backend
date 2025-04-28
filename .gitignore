@@ -1,0 +1,8 @@
+
+
+uploads
+vector_stores
+venv
+.env
+document_metadata.json
+faiss_index
